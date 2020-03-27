@@ -1,5 +1,0 @@
-backup/*
-lib/benchar/build/*
-.codex
-.coverage
-.vscode/*
